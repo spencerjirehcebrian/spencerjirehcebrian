@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Spencer Jireh G. Cebrian</h1>
+<h1 align="center">Hello, I'm Spencer Jireh Cebrian</h1>
 <h4 align="center">An aspiring Software Engineer from the Philippines</h4>
 <h3 align="center">Welcome to my GitHub Portfolio</h3>
 
