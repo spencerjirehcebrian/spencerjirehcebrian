@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Spencer Jireh Cebrian</h1>
-<h4 align="center">An aspiring Software Engineer and Machine Learning Engineer</h4>
+<h4 align="center">An aspiring Software and Machine Learning Engineer</h4>
 <h3 align="center">Welcome to my GitHub Portfolio</h3>
 
 <h3 align="left">Connect with me:</h3>
