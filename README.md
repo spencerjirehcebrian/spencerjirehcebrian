@@ -22,24 +22,6 @@
 
 <hr>
 
-<!-- Projects & Contributions -->
-<h2 align="left">🚀 Projects & Contributions</h2>
-<ul>
-  <li>
-    <strong>Project Alpha:</strong> A state-of-the-art machine learning app that predicts real-time trends.
-    <a href="https://github.com/spencerjirehcebrian/project-alpha" target="_blank">[Repo]</a>
-  </li>
-  <li>
-    <strong>Project Beta:</strong> A web tool built with Next.js & Electron delivering seamless user experiences.
-    <a href="https://github.com/spencerjirehcebrian/project-beta" target="_blank">[Repo]</a>
-  </li>
-  <li>
-    <strong>Open Source:</strong> Actively contributing to various open-source projects and tech communities.
-  </li>
-</ul>
-
-<hr>
-
 <h2 align="left">🛠️ Classic Languages & Tools</h2>
 <p align="left">
   <!-- Android -->
