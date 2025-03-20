@@ -1,7 +1,3 @@
-<!-- Banner Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&center=true&vCenter=true&width=800&lines=Hello,+I%27m+Spencer!;" alt="Typing SVG Banner" />
-</p>
 
 <!-- Introduction -->
 <h1 align="center" style="margin-bottom: 0;">Spencer Jireh Cebrian</h1>
