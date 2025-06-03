@@ -1,8 +1,13 @@
-
 <!-- Introduction -->
 <h1 align="center" style="margin-bottom: 0;">Spencer Jireh Cebrian</h1>
 <h3 align="center" style="margin-top: 5px;">Aspiring Software & Machine Learning Engineer</h3>
-<a align="center" href="https://cebrian.spencerjireh.com/" target="_blank">Visit My Site</a>
+
+<!-- Visit Site Button -->
+<p align="center" style="margin-top: 10px;">
+  <a href="https://cebrian.spencerjireh.com/" target="_blank" style="text-decoration: none; background-color: #0e75b6; color: white; padding: 10px 20px; border-radius: 8px; font-weight: bold; display: inline-block;">
+    Visit My Site
+  </a>
+</p>
 
 <!-- Social & Profile Views -->
 <p align="center">
@@ -16,6 +21,7 @@
 </p>
 
 <hr>
+
 
 <!-- Languages & Tools -->
 <h2 align="left">🛠️ Languages & Tools</h2>
