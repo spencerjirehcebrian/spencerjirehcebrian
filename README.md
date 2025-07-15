@@ -12,17 +12,20 @@ Currently working on:
 
 **Web Applications**
 - Full-stack applications using React, Node.js, and various databases
-- E-commerce platforms, social media dashboards, and productivity tools
-- Trying to make user experiences that don't make people want to throw their computers
+- Spinning entire web applications from the ground up, designing it's systems, optimizing to scale, deploying them, then proceeding to scale to zero users.
+- Trying to one day make user experiences that don't make people want to punch their computers
+- Do TDD for the first two features, get frustrated, then do production based testing
 
 **Machine Learning Experiments** 
 - Data analysis and predictive modeling with Python
+- Creating neural networks from scratch
+- Trying LLM integrations within my web applications
 - Computer vision projects
 - Natural language processing attempts
 - Working with datasets and hoping the patterns I find actually mean something
 
 **Mobile & Desktop**
-- Cross-platform applications with React Native and Electron. Going to try Tauri soon since I don't like Electron.
+- Cross-platform applications with React Native and Electron. Going to try Tauri soon (I don't like Electron).
 
 <p align="center">
   <a href="https://cebrian.spencerjireh.com/" target="_blank">
@@ -60,20 +63,14 @@ PyTorch • TensorFlow • Pandas • Scikit-learn
 Python • JavaScript/TypeScript • Java • C++ • C# • PHP
 ```
 
-## 🚀 Current Status
-
-- 🌱 Learning more about machine learning and AI applications
-- 🔭 Working on various web development projects
-- 📖 Always attempting to read O'Reilly books and trying new technologies
-- 🎯 Goal: Write code that I can explain and understand beyong the simple syntax (still working on this one)
-
 ## 🎓 Always Learning
 
 **Currently exploring:**
-- Advanced ML techniques and deep learning frameworks
 - Cloud architecture and scalable system design
 - Modern web development patterns and best practices
+- Backend technologies to apply the system that I have designed
 - Math
+- Advanced ML techniques and deep learning frameworks
 - Potential money making ideas solving pain points for me, other individuals and businesses
 - How to explain what I do to my family at dinner
 
