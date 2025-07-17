@@ -66,10 +66,9 @@ Python • JavaScript/TypeScript • Java • C++ • C# • PHP
 ## 🎓 Always Learning
 
 **Currently exploring:**
-- Cloud architecture and scalable system design
-- Modern web development patterns and best practices
-- Backend technologies to apply the system that I have designed
-- Math
+- Cloud architecture and scalable system design (Self-hosting and AWS Tech)
+- Modern web development patterns and software engineering best practices
+- Maths (yes just maths)
 - Advanced ML techniques and deep learning frameworks
 - Potential money making ideas solving pain points for me, other individuals and businesses
 - How to explain what I do to my family at dinner
