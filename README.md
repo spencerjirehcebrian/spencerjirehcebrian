@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-**Hi, my name is Spencer** and I like to attempt to solve problems with code, neural networks, and too much Tailwind CSS. Still figuring most of it out as I go.
+**Hi, my name is Spencer** and I like to try problem solving with code, neural networks, and too much Tailwind CSS. Still figuring most of it out as I go.
 
 Currently working on:
 - 🔧 Building web applications and experimenting with new frameworks
@@ -20,7 +20,6 @@ Currently working on:
 - Data analysis and predictive modeling with Python
 - Creating neural networks from scratch
 - Trying LLM integrations within my web applications
-- Computer vision projects
 - Natural language processing attempts
 - Working with datasets and hoping the patterns I find actually mean something
 
@@ -36,7 +35,7 @@ Currently working on:
   </a>
 </p>
 
-## 🛠️ My Toolbox (aka "Things I ChatGPT Daily")
+## 🛠️ Toolbox
 
 **Frontend** ✨
 ```
