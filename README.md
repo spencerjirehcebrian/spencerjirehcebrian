@@ -3,7 +3,7 @@
 **Hi, my name is Spencer** and I like to try problem solving with code, neural networks, and an unreasonable amount of Tailwind CSS. Still figuring most of it out as I go, which is definitely a sustainable long-term strategy.
 
 Currently working on:
-- Building web applications and experimenting with technologie and frameworks that didn't exist last Tuesday
+- Building web applications and experimenting with technologies and frameworks that didn't exist last Tuesday
 - Machine learning projects (accuracy: sometimes better than random guessing)
 - Making interfaces that hopefully achieve the bare minimum of not causing physical pain
 - Learning algorithms I should have learned in 2017 but was busy (didn't know what Python was) that decade
