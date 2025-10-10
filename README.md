@@ -57,7 +57,7 @@ Currently working on:
 
 Want to discuss projects, collaborate on something interesting, or debate whether I should become a rice farmer instead? Reach out at **spencercebrian123@gmail.com** or find me on LinkedIn. 
 
-I respond to most messages within 1-5 business days, depending on how long Claude Code takes to generate a 100x engineered, infinetely scalable, rent-seeking SaaS that not only generates me 10 million in MRR, but also aligns with all 17 of the UN's Sustainable Development Goals, ends all wars and solves world hunger.
+I respond to most messages within 1-5 business days, depending on how long Claude Code takes to generate a 100x engineered, infinitely scalable, rent-seeking SaaS that not only generates me 10 million in MRR, but also aligns with all 17 of the UN's Sustainable Development Goals, ends all wars and solves world hunger.
 
 *Thanks for stopping by!*
 
