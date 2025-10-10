@@ -1,30 +1,31 @@
-# Hey there! 👋
+# Hey there!
 
-**Hi, my name is Spencer** and I like to try problem solving with code, neural networks, and too much Tailwind CSS. Still figuring most of it out as I go.
+**Hi, my name is Spencer** and I like to try problem solving with code, neural networks, and an unreasonable amount of Tailwind CSS. Still figuring most of it out as I go, which is definitely a sustainable long-term strategy.
 
 Currently working on:
-- 🔧 Building web applications and experimenting with new frameworks
-- 🤖 Machine learning projects (with varying degrees of success)
-- 🎨 Making interfaces that hopefully don't hurt anyone's eyes
-- 📚 Learning algorithms and pretending I knew them all along
+- Building web applications and experimenting with technologie and frameworks that didn't exist last Tuesday
+- Machine learning projects (accuracy: sometimes better than random guessing)
+- Making interfaces that hopefully achieve the bare minimum of not causing physical pain
+- Learning algorithms I should have learned in 2017 but was busy (didn't know what Python was) that decade
+- LARPing as a project manager by delegating tasks to Claude Code with SDD (our working relationship is professional and definitely not adversarial)
 
-## 🚀 What I Work On
+## What I Work On
 
 **Web Applications**
-- Full-stack applications using React, Node.js, and various databases
-- Spinning entire web applications from the ground up, designing it's systems, optimizing to scale, deploying them, then proceeding to scale to zero users.
-- Trying to one day make user experiences that don't make people want to punch their computers
-- Do TDD for the first two features, get frustrated, then do production based testing
+- Full-stack applications using mostly React, Next.js, and a wide variety of backends and databases that may or may not be normalized
+- Spinning entire web applications from the ground up, architecting their systems with the confidence of someone who has never heard of technical debt, optimizing them to scale horizontally and vertically, deploying them to production with zero downtime, then proceeding to scale to zero users with remarkable efficiency
+- Trying to one day create user experiences that don't make people question their life choices
+- Practicing TDD religiously for approximately the first 8% of the project before reverting to production-based testing (also known as "the lion does not concern themselves with test coverage")
 
 **Machine Learning Experiments** 
-- Data analysis and predictive modeling with Python
-- Creating neural networks from scratch
-- Trying LLM integrations within my web applications
-- Natural language processing attempts
-- Working with datasets and hoping the patterns I find actually mean something
+- Data analysis and predictive modeling with Python and libraries I pretend to fully understand
+- Creating neural networks from scratch because apparently pre-built solutions are for quitters
+- Integrating LLMs into web applications, thereby ensuring my code becomes sentient before I do
+- Natural language processing attempts that occasionally process language naturally
+- Working with datasets and performing statistical analysis that confirms patterns I suspected existed (p < 0.05, probably)
 
 **Mobile & Desktop**
-- Cross-platform applications with React Native and Electron. Going to try Tauri soon (I don't like Electron).
+- Cross-platform applications with React Native and Electron. Planning to migrate to Tauri eventually (Electron and I have creative differences regarding RAM usage)
 
 <p align="center">
   <a href="https://cebrian.spencerjireh.com/" target="_blank">
@@ -35,55 +36,34 @@ Currently working on:
   </a>
 </p>
 
-## 🛠️ Toolbox
-
-**Frontend** ✨
-```
-HTML/CSS/JS • React • Next.js • React Native • Electron
-```
-
-**Backend** 🔧
-```
-Node.js • Express • FastAPI • Python • Kafka • Redis • AWS
-```
-
-**Databases** 📊
-```
-MongoDB • PostgreSQL • MySQL
-```
-
-**ML & Data Science** 🤖
-```
-PyTorch • TensorFlow • Pandas • Scikit-learn
-```
-
-**Languages** 💬
-```
-Python • JavaScript/TypeScript • Java • C++ • C# • PHP
-```
-
-## 🎓 Always Learning
+## Always Learning
 
 **Currently exploring:**
-- Cloud architecture and scalable system design (Self-hosting and AWS Tech)
-- Modern web development patterns and software engineering best practices
-- Maths (yes just maths)
-- Advanced ML techniques and deep learning frameworks
-- Potential money making ideas solving pain points for me, other individuals and businesses
-- How to explain what I do to my family at dinner
+- Cloud architecture and scalable system design (self-hosting and AWS technologies, which is definitely not an oxymoron)
+- Modern web development patterns and software engineering best practices that will be obsolete by the time I master them
+- Mathematics (yes, just mathematics in its purest, most intimidating form)
+- ML techniques and deep learning frameworks that require more GPU than I can afford
+- Identifying monetizable pain points for individuals and businesses, starting with my own pain point of having no monetizable ideas
+- Developing coherent explanations of my work for family dinner conversations (current success rate: approaching zero)
+- Wondering why my trading algorithms are incredibly consistent in losing me money.
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=spencerjirehcebrian&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-## 📫 Let's Chat!
+## Get In Touch
 
-Feel free to message me at **spencercebrian123@gmail.com** or connect on LinkedIn if you want to discuss projects, technology, or share ideas.
+Want to discuss projects, collaborate on something interesting, or debate whether I should become a rice farmer instead? Reach out at **spencercebrian123@gmail.com** or find me on LinkedIn. 
 
-*Thanks for stopping by!* 🚀
+I respond to most messages within 1-5 business days, depending on how long Claude Code takes to generate a 100x engineered, infinetely scalable, rent-seeking SaaS that not only generates me 10 million in MRR, but also aligns with all 17 of the UN's Sustainable Development Goals, ends all wars and solves world hunger.
+
+*Thanks for stopping by!*
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=spencerjirehcebrian&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
+</p>
+<p align="center">
+  <i>(Refresh the page to watch the number go up. It's very satisfying.)</i>
 </p>
