@@ -16,6 +16,7 @@ Currently working on:
 - Spinning entire web applications from the ground up, architecting their systems with the confidence of someone who has never heard of technical debt, optimizing them to scale horizontally and vertically, deploying them to production with zero downtime, then proceeding to scale to zero users with remarkable efficiency
 - Trying to one day create user experiences that don't make people question their life choices
 - Practicing TDD religiously for approximately the first 8% of the project before reverting to production-based testing (also known as "the lion does not concern themselves with test coverage")
+- Trying to recreate the SpringBoot experience in Nest.js, failing because Typescript, crying because Jonathan Blow is correct, accepting my fate and using FastAPI
 
 **Machine Learning Experiments** 
 - Data analysis and predictive modeling with Python and libraries I pretend to fully understand
