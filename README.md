@@ -1,1 +1,1 @@
-I am a temporary concession to human weakness in a fallen world.
+"... a temporary concession to human weakness in a fallen world."
